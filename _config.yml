@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Coarse Temporal Attention Network (CTA-Net) for Driver's Activity Recognition
-description: IEEE/CVF Winter Conference on Applications of Computer Vision 2021
+description: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2021
 github:
   is_project_page: false
