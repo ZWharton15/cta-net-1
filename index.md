@@ -1,5 +1,7 @@
 ## Zachary Wharton, Ardhendu Behera, Yonghuai Liu and Nik Bessis 
-**Department of Computer Science, Edge Hill University**
+<div class="text-purple">
+  **Department of Computer Science, Edge Hill University**
+</div>
 
 ### Abstract
 
