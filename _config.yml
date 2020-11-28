@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: The title
-description: Description
+title: Coarse Temporal Attention Network (CTA-Net) for Driver's Activity Recognition
+description: Zachary Wharton, Ardhendu Behera, Yonghuai Liu and Nik Bessis
 github:
   is_project_page: false
