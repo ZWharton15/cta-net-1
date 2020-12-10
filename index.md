@@ -10,6 +10,10 @@ There is significant progress in recognizing traditional human activities from v
     <img src="./Figure 1-low.png"> <br>
     This text is also aligned to the left.
 </p>
+<p align="center" width="100%">
+    <img src="./Figure 1-low.png"> <br>
+    This text is also aligned to the center.
+</p>
 <img align="left" src="./Figure 1-low.png" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
 <br/><br/><br/><br/><br/>
 
