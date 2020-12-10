@@ -10,6 +10,8 @@ There is significant progress in recognizing traditional human activities from v
 <img align="left" src="./Figure 1-low.png" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
 <img align="left" src="./Figure 1-low.png" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
 <br/><br/><br/><br/><br/>
+
+
 ```markdown
 Syntax highlighted code block
 
