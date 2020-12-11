@@ -14,6 +14,8 @@ Our CTA-Net is based on ResNet-50 architecture and uses visual attention in an i
     The proposed CTA-Net consists of - <b>a) Glimpse sensor:</b> Given an input video <i>v</i> consisting <i>T</i> frames, the sensor extract feature <i>x_t</i> for the frame located at time <i>t</i>, where <i>t=1 ... T</i>. <b>b) Self-Attention:</b> It captures important cues on activity-specific spatial changes. <b>c) Temporal Attention:</b> The module uses the internal state <i>h_t</i> of an LSTM (unrolled) that takes as input <i>x_t</i> and selectively focuses on the <i>h_t</i> to infer activity.
 </p>
 
+### Paper
+<a href=“https://research.edgehill.ac.uk/ws/portalfiles/portal/36372226/WACV_21_CameraReady.pdf”> Institute Repository</a>
 
 ```markdown
 Syntax highlighted code block
