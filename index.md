@@ -16,7 +16,6 @@ Our CTA-Net is based on ResNet-50 architecture and uses visual attention in an i
 
 ### Paper
 [Edge Hill University Repository](https://research.edgehill.ac.uk/ws/portalfiles/portal/36372226/WACV_21_CameraReady.pdf)
-<a href=https://research.edgehill.ac.uk/ws/portalfiles/portal/36372226/WACV_21_CameraReady.pdf> Edge Hill University Repository</a>
 
 ```markdown
 Syntax highlighted code block
