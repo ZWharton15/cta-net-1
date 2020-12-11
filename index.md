@@ -11,7 +11,7 @@ There is significant progress in recognizing traditional human activities from v
 
 <p align="center" width="100%">
     <img src="./full_image.jpg"><br>
-    The proposed CTA-Net consists of - **a) Glimpse sensor: Given an input video <i>v</i> consisting <i>T</i> frames, the sensor , where $t=1\dots T$. \textbf{b) Self-Attention:}.
+    The proposed CTA-Net consists of - <b>a) Glimpse sensor:</b> Given an input video <i>v</i> consisting <i>T</i> frames, the sensor extract feature <i>x_t</i> for the frame located at time <i>t</i>, where <i>t=1 ... T</i>. \textbf{b) Self-Attention:}.
 </p>
 
 
