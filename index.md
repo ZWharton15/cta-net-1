@@ -17,9 +17,15 @@ Our CTA-Net is based on ResNet-50 architecture and uses visual attention in an i
 ### Paper
 [Edge Hill University Repository](https://research.edgehill.ac.uk/ws/portalfiles/portal/36372226/WACV_21_CameraReady.pdf)
 
+### Bibtex
 ```markdown
-Syntax highlighted code block
-
+@inproceedings{wharton2020coarse,
+  title={Coarse Temporal Attention Network (CTA-Net) for Driver’s Activity Recognition},
+  author={Wharton, Zachary and Behera, Ardhendu and Liu, Yonghuai and Bessis, Nik},
+  booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2021},
+  organization={IEEE Explore}
+}
 # Header 1
 ## Header 2
 ### Header 3
